@@ -1,0 +1,160 @@
+
+play_s_shengji.png
+size: 267,528
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx-0-huifu101
+  rotate: true
+  xy: 188, 72
+  size: 60, 31
+  orig: 259, 149
+  offset: 98, 25
+  index: -1
+fx-0-huifu102
+  rotate: true
+  xy: 224, 134
+  size: 81, 36
+  orig: 259, 149
+  offset: 66, 25
+  index: -1
+fx-0-huifu103
+  rotate: true
+  xy: 2, 173
+  size: 105, 68
+  orig: 259, 149
+  offset: 28, 26
+  index: -1
+fx-0-huifu104
+  rotate: true
+  xy: 73, 60
+  size: 94, 79
+  orig: 259, 149
+  offset: 29, 35
+  index: -1
+fx-0-huifu105
+  rotate: true
+  xy: 216, 217
+  size: 139, 49
+  orig: 259, 149
+  offset: 36, 68
+  index: -1
+fx-0-huifu106
+  rotate: false
+  xy: 124, 440
+  size: 138, 86
+  orig: 259, 149
+  offset: 91, 29
+  index: -1
+fx-0-huifu107
+  rotate: false
+  xy: 117, 268
+  size: 97, 88
+  orig: 259, 149
+  offset: 133, 25
+  index: -1
+fx-0-huifu108
+  rotate: true
+  xy: 2, 280
+  size: 126, 71
+  orig: 259, 149
+  offset: 103, 25
+  index: -1
+fx-0-huifu109
+  rotate: true
+  xy: 75, 282
+  size: 124, 40
+  orig: 259, 149
+  offset: 83, 24
+  index: -1
+fx-0-huifu110
+  rotate: true
+  xy: 2, 44
+  size: 127, 34
+  orig: 259, 149
+  offset: 70, 25
+  index: -1
+fx-0-huifu111
+  rotate: true
+  xy: 231, 42
+  size: 90, 32
+  orig: 259, 149
+  offset: 69, 26
+  index: -1
+fx-0-huifu201
+  rotate: true
+  xy: 231, 2
+  size: 38, 32
+  orig: 50, 236
+  offset: 5, 0
+  index: -1
+fx-0-huifu202
+  rotate: false
+  xy: 154, 71
+  size: 32, 61
+  orig: 50, 236
+  offset: 8, 0
+  index: -1
+fx-0-huifu203
+  rotate: true
+  xy: 113, 229
+  size: 37, 92
+  orig: 50, 236
+  offset: 5, 16
+  index: -1
+fx-0-huifu204
+  rotate: false
+  xy: 75, 156
+  size: 36, 124
+  orig: 50, 236
+  offset: 7, 66
+  index: -1
+fx-0-huifu205
+  rotate: true
+  xy: 113, 180
+  size: 35, 109
+  orig: 50, 236
+  offset: 6, 110
+  index: -1
+fx-0-huifu206
+  rotate: true
+  xy: 120, 23
+  size: 35, 109
+  orig: 50, 236
+  offset: 6, 111
+  index: -1
+fx-0-huifu207
+  rotate: false
+  xy: 38, 55
+  size: 33, 116
+  orig: 50, 236
+  offset: 7, 111
+  index: -1
+fx-0-huifu208
+  rotate: true
+  xy: 2, 6
+  size: 36, 116
+  orig: 50, 236
+  offset: 5, 114
+  index: -1
+fx-0-huifu209
+  rotate: false
+  xy: 154, 139
+  size: 38, 39
+  orig: 50, 236
+  offset: 4, 192
+  index: -1
+fx-0-huifu501
+  rotate: true
+  xy: 2, 408
+  size: 118, 120
+  orig: 141, 149
+  offset: 11, 14
+  index: -1
+fx-0-huifu601
+  rotate: true
+  xy: 124, 358
+  size: 80, 135
+  orig: 98, 149
+  offset: 8, 14
+  index: -1

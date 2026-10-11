@@ -1,0 +1,181 @@
+
+microwave.png
+size: 1728, 401
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+equip_10005_1
+  rotate: true
+  xy: 660, 2
+  size: 184, 156
+  orig: 184, 156
+  offset: 0, 0
+  index: -1
+equip_10005_2
+  rotate: true
+  xy: 818, 2
+  size: 184, 156
+  orig: 184, 156
+  offset: 0, 0
+  index: -1
+equip_10005_3
+  rotate: true
+  xy: 1174, 5
+  size: 184, 156
+  orig: 184, 156
+  offset: 0, 0
+  index: -1
+wbl (1)
+  rotate: false
+  xy: 1246, 191
+  size: 183, 208
+  orig: 560, 314
+  offset: 182, 60
+  index: -1
+wbl (10)
+  rotate: false
+  xy: 2, 7
+  size: 192, 170
+  orig: 560, 314
+  offset: 182, 81
+  index: -1
+wbl (11)
+  rotate: true
+  xy: 351, 2
+  size: 176, 164
+  orig: 560, 314
+  offset: 191, 78
+  index: -1
+wbl (12)
+  rotate: true
+  xy: 196, 9
+  size: 168, 153
+  orig: 560, 314
+  offset: 194, 81
+  index: -1
+wbl (13)
+  rotate: true
+  xy: 517, 24
+  size: 159, 141
+  orig: 560, 314
+  offset: 201, 89
+  index: -1
+wbl (14)
+  rotate: true
+  xy: 1332, 43
+  size: 146, 132
+  orig: 560, 314
+  offset: 205, 95
+  index: -1
+wbl (15)
+  rotate: false
+  xy: 1576, 18
+  size: 137, 117
+  orig: 560, 314
+  offset: 210, 103
+  index: -1
+wbl (16)
+  rotate: true
+  xy: 1466, 15
+  size: 122, 108
+  orig: 560, 314
+  offset: 216, 109
+  index: -1
+wbl (17)
+  rotate: true
+  xy: 1628, 294
+  size: 105, 98
+  orig: 560, 314
+  offset: 228, 116
+  index: -1
+wbl (18)
+  rotate: false
+  xy: 1628, 209
+  size: 90, 83
+  orig: 560, 314
+  offset: 233, 120
+  index: -1
+wbl (19)
+  rotate: false
+  xy: 1628, 139
+  size: 69, 68
+  orig: 560, 314
+  offset: 242, 124
+  index: -1
+wbl (2)
+  rotate: true
+  xy: 214, 180
+  size: 219, 216
+  orig: 560, 314
+  offset: 169, 57
+  index: -1
+wbl (20)
+  rotate: false
+  xy: 1576, 137
+  size: 49, 53
+  orig: 560, 314
+  offset: 254, 131
+  index: -1
+wbl (21)
+  rotate: false
+  xy: 1332, 5
+  size: 36, 36
+  orig: 560, 314
+  offset: 260, 140
+  index: -1
+wbl (22)
+  rotate: true
+  xy: 1370, 17
+  size: 24, 23
+  orig: 560, 314
+  offset: 267, 148
+  index: -1
+wbl (3)
+  rotate: false
+  xy: 842, 189
+  size: 202, 210
+  orig: 560, 314
+  offset: 163, 59
+  index: -1
+wbl (4)
+  rotate: true
+  xy: 2, 179
+  size: 220, 210
+  orig: 560, 314
+  offset: 164, 60
+  index: -1
+wbl (5)
+  rotate: true
+  xy: 432, 185
+  size: 214, 204
+  orig: 560, 314
+  offset: 167, 64
+  index: -1
+wbl (6)
+  rotate: true
+  xy: 638, 188
+  size: 211, 202
+  orig: 560, 314
+  offset: 170, 64
+  index: -1
+wbl (7)
+  rotate: true
+  xy: 1046, 191
+  size: 208, 198
+  orig: 560, 314
+  offset: 171, 66
+  index: -1
+wbl (8)
+  rotate: true
+  xy: 1431, 192
+  size: 207, 195
+  orig: 560, 314
+  offset: 171, 67
+  index: -1
+wbl (9)
+  rotate: false
+  xy: 976, 2
+  size: 196, 185
+  orig: 560, 314
+  offset: 181, 70
+  index: -1

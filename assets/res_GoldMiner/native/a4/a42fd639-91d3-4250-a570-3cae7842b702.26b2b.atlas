@@ -1,0 +1,293 @@
+
+shengji.png
+size: 1868,708
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+j (1)
+  rotate: false
+  xy: 2, 388
+  size: 250, 116
+  orig: 250, 116
+  offset: 0, 0
+  index: -1
+j (10)
+  rotate: false
+  xy: 2, 270
+  size: 250, 116
+  orig: 250, 116
+  offset: 0, 0
+  index: -1
+j (11)
+  rotate: false
+  xy: 254, 270
+  size: 250, 116
+  orig: 250, 116
+  offset: 0, 0
+  index: -1
+j (12)
+  rotate: false
+  xy: 506, 270
+  size: 250, 116
+  orig: 250, 116
+  offset: 0, 0
+  index: -1
+j (13)
+  rotate: false
+  xy: 758, 270
+  size: 250, 116
+  orig: 250, 116
+  offset: 0, 0
+  index: -1
+j (14)
+  rotate: false
+  xy: 1010, 270
+  size: 250, 116
+  orig: 250, 116
+  offset: 0, 0
+  index: -1
+j (15)
+  rotate: true
+  xy: 1262, 136
+  size: 250, 116
+  orig: 250, 116
+  offset: 0, 0
+  index: -1
+j (16)
+  rotate: true
+  xy: 1380, 136
+  size: 250, 116
+  orig: 250, 116
+  offset: 0, 0
+  index: -1
+j (17)
+  rotate: false
+  xy: 1498, 136
+  size: 250, 116
+  orig: 250, 116
+  offset: 0, 0
+  index: -1
+j (18)
+  rotate: true
+  xy: 1750, 2
+  size: 250, 116
+  orig: 250, 116
+  offset: 0, 0
+  index: -1
+j (19)
+  rotate: false
+  xy: 2, 152
+  size: 250, 116
+  orig: 250, 116
+  offset: 0, 0
+  index: -1
+j (2)
+  rotate: false
+  xy: 254, 388
+  size: 250, 116
+  orig: 250, 116
+  offset: 0, 0
+  index: -1
+j (20)
+  rotate: false
+  xy: 254, 152
+  size: 250, 116
+  orig: 250, 116
+  offset: 0, 0
+  index: -1
+j (21)
+  rotate: false
+  xy: 506, 152
+  size: 250, 116
+  orig: 250, 116
+  offset: 0, 0
+  index: -1
+j (22)
+  rotate: false
+  xy: 758, 152
+  size: 250, 116
+  orig: 250, 116
+  offset: 0, 0
+  index: -1
+j (23)
+  rotate: true
+  xy: 1010, 18
+  size: 250, 116
+  orig: 250, 116
+  offset: 0, 0
+  index: -1
+j (24)
+  rotate: true
+  xy: 1128, 18
+  size: 250, 116
+  orig: 250, 116
+  offset: 0, 0
+  index: -1
+j (25)
+  rotate: false
+  xy: 1246, 18
+  size: 250, 116
+  orig: 250, 116
+  offset: 0, 0
+  index: -1
+j (26)
+  rotate: false
+  xy: 1498, 18
+  size: 250, 116
+  orig: 250, 116
+  offset: 0, 0
+  index: -1
+j (27)
+  rotate: false
+  xy: 2, 34
+  size: 250, 116
+  orig: 250, 116
+  offset: 0, 0
+  index: -1
+j (28)
+  rotate: false
+  xy: 254, 34
+  size: 250, 116
+  orig: 250, 116
+  offset: 0, 0
+  index: -1
+j (29)
+  rotate: false
+  xy: 506, 34
+  size: 250, 116
+  orig: 250, 116
+  offset: 0, 0
+  index: -1
+j (3)
+  rotate: false
+  xy: 506, 388
+  size: 250, 116
+  orig: 250, 116
+  offset: 0, 0
+  index: -1
+j (30)
+  rotate: false
+  xy: 758, 34
+  size: 250, 116
+  orig: 250, 116
+  offset: 0, 0
+  index: -1
+j (4)
+  rotate: false
+  xy: 758, 388
+  size: 250, 116
+  orig: 250, 116
+  offset: 0, 0
+  index: -1
+j (5)
+  rotate: false
+  xy: 1010, 388
+  size: 250, 116
+  orig: 250, 116
+  offset: 0, 0
+  index: -1
+j (6)
+  rotate: false
+  xy: 1262, 388
+  size: 250, 116
+  orig: 250, 116
+  offset: 0, 0
+  index: -1
+j (7)
+  rotate: true
+  xy: 1514, 254
+  size: 250, 116
+  orig: 250, 116
+  offset: 0, 0
+  index: -1
+j (8)
+  rotate: true
+  xy: 1632, 254
+  size: 250, 116
+  orig: 250, 116
+  offset: 0, 0
+  index: -1
+j (9)
+  rotate: true
+  xy: 1750, 254
+  size: 250, 116
+  orig: 250, 116
+  offset: 0, 0
+  index: -1
+sao
+  rotate: true
+  xy: 1820, 597
+  size: 37, 11
+  orig: 39, 11
+  offset: 1, 0
+  index: -1
+wuqi/txt_wuqi
+  rotate: true
+  xy: 1820, 636
+  size: 70, 23
+  orig: 70, 23
+  offset: 0, 0
+  index: -1
+wuqi/wq (1)
+  rotate: false
+  xy: 2, 506
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+wuqi/wq (2)
+  rotate: false
+  xy: 204, 506
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+wuqi/wq (3)
+  rotate: false
+  xy: 406, 506
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+wuqi/wq (4)
+  rotate: false
+  xy: 608, 506
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+wuqi/wq (5)
+  rotate: false
+  xy: 810, 506
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+wuqi/wq (6)
+  rotate: false
+  xy: 1012, 506
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+wuqi/wq (7)
+  rotate: false
+  xy: 1214, 506
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+wuqi/wq (8)
+  rotate: false
+  xy: 1416, 506
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+wuqi/wq (9)
+  rotate: false
+  xy: 1618, 506
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1

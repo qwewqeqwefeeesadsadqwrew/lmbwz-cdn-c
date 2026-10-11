@@ -1,0 +1,132 @@
+
+role_skin_6.png
+size: 1309,313
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bq1
+  rotate: true
+  xy: 529, 99
+  size: 212, 142
+  orig: 212, 164
+  offset: 0, 0
+  index: -1
+qiang
+  rotate: true
+  xy: 1256, 71
+  size: 98, 46
+  orig: 210, 136
+  offset: 105, 28
+  index: -1
+qiang2
+  rotate: true
+  xy: 1199, 171
+  size: 140, 73
+  orig: 210, 136
+  offset: 63, 8
+  index: -1
+qiang3
+  rotate: true
+  xy: 748, 125
+  size: 186, 44
+  orig: 210, 136
+  offset: 17, 31
+  index: -1
+qiang4
+  rotate: true
+  xy: 673, 115
+  size: 196, 73
+  orig: 210, 136
+  offset: 8, 8
+  index: -1
+qiang5
+  rotate: true
+  xy: 1216, 70
+  size: 99, 38
+  orig: 210, 136
+  offset: 104, 50
+  index: -1
+qiang6
+  rotate: false
+  xy: 704, 11
+  size: 195, 102
+  orig: 210, 136
+  offset: 8, 24
+  index: -1
+shen
+  rotate: false
+  xy: 415, 34
+  size: 112, 277
+  orig: 693, 519
+  offset: 291, 93
+  index: -1
+shou1
+  rotate: false
+  xy: 947, 141
+  size: 131, 170
+  orig: 196, 351
+  offset: 30, 94
+  index: -1
+shou2
+  rotate: true
+  xy: 1048, 15
+  size: 124, 166
+  orig: 270, 487
+  offset: 58, 158
+  index: -1
+tou
+  rotate: false
+  xy: 2, 2
+  size: 411, 309
+  orig: 662, 576
+  offset: 119, 167
+  index: -1
+tui
+  rotate: false
+  xy: 794, 136
+  size: 85, 175
+  orig: 175, 381
+  offset: 41, 101
+  index: -1
+tui2
+  rotate: false
+  xy: 1080, 163
+  size: 117, 148
+  orig: 191, 417
+  offset: 22, 128
+  index: -1
+tx/qh_01
+  rotate: true
+  xy: 1216, 11
+  size: 57, 91
+  orig: 256, 128
+  offset: 15, 22
+  index: -1
+tx/qh_02
+  rotate: true
+  xy: 934, 3
+  size: 135, 112
+  orig: 256, 128
+  offset: 14, 8
+  index: -1
+tx/qh_03
+  rotate: false
+  xy: 529, 5
+  size: 173, 92
+  orig: 256, 128
+  offset: 17, 16
+  index: -1
+tx/qh_04
+  rotate: true
+  xy: 881, 140
+  size: 171, 64
+  orig: 256, 128
+  offset: 20, 31
+  index: -1
+yingzi
+  rotate: true
+  xy: 901, 2
+  size: 136, 31
+  orig: 398, 91
+  offset: 131, 30
+  index: -1

@@ -1,0 +1,34 @@
+
+vacuum cleaner.png
+size: 679, 208
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+c
+  rotate: false
+  xy: 2, 2
+  size: 616, 204
+  orig: 626, 233
+  offset: 5, 10
+  index: -1
+equip_10002_1
+  rotate: true
+  xy: 620, 37
+  size: 47, 39
+  orig: 92, 78
+  offset: 25, 9
+  index: -1
+equip_10002_2
+  rotate: false
+  xy: 620, 86
+  size: 46, 52
+  orig: 92, 78
+  offset: 25, 10
+  index: -1
+equip_10002_3
+  rotate: true
+  xy: 620, 140
+  size: 66, 57
+  orig: 92, 78
+  offset: 13, 9
+  index: -1

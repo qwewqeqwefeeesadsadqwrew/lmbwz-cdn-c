@@ -1,0 +1,20 @@
+
+play_s_xianzhiquan.png
+size: 1268, 644
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+d
+  rotate: false
+  xy: 644, 20
+  size: 622, 622
+  orig: 622, 622
+  offset: 0, 0
+  index: -1
+q
+  rotate: false
+  xy: 2, 2
+  size: 640, 640
+  orig: 640, 640
+  offset: 0, 0
+  index: -1

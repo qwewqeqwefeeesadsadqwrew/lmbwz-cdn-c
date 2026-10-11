@@ -1,0 +1,27 @@
+
+attribute.png
+size: 280, 111
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+特效/gongsu
+  rotate: false
+  xy: 193, 5
+  size: 85, 104
+  orig: 245, 202
+  offset: 80, 50
+  index: -1
+特效/jiasu
+  rotate: false
+  xy: 96, 7
+  size: 95, 102
+  orig: 245, 202
+  offset: 75, 49
+  index: -1
+特效/jikui
+  rotate: true
+  xy: 2, 2
+  size: 107, 92
+  orig: 245, 202
+  offset: 69, 54
+  index: -1

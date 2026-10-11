@@ -1,0 +1,62 @@
+
+pao.png
+size: 236, 283
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+lun1
+  rotate: false
+  xy: 151, 4
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+lun2
+  rotate: false
+  xy: 167, 136
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+pao
+  rotate: true
+  xy: 2, 155
+  size: 126, 163
+  orig: 126, 163
+  offset: 0, 0
+  index: -1
+shoot_fire_12
+  rotate: false
+  xy: 167, 205
+  size: 67, 76
+  orig: 100, 100
+  offset: 15, 0
+  index: -1
+shoot_fire_14
+  rotate: true
+  xy: 76, 79
+  size: 74, 89
+  orig: 100, 100
+  offset: 9, 4
+  index: -1
+shoot_fire_16
+  rotate: false
+  xy: 76, 2
+  size: 73, 75
+  orig: 100, 100
+  offset: 10, 21
+  index: -1
+shoot_fire_18
+  rotate: true
+  xy: 167, 98
+  size: 36, 34
+  orig: 100, 100
+  offset: 32, 50
+  index: -1
+zuo
+  rotate: true
+  xy: 2, 18
+  size: 135, 72
+  orig: 137, 81
+  offset: 1, 9
+  index: -1

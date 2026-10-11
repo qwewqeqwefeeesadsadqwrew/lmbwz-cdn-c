@@ -1,0 +1,90 @@
+
+ani_8b.png
+size: 242, 283
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+banshou
+  rotate: false
+  xy: 168, 108
+  size: 63, 62
+  orig: 63, 62
+  offset: 0, 0
+  index: -1
+fx-0-huifu201
+  rotate: false
+  xy: 161, 40
+  size: 38, 32
+  orig: 50, 236
+  offset: 5, 0
+  index: -1
+fx-0-huifu202
+  rotate: true
+  xy: 161, 74
+  size: 32, 61
+  orig: 50, 236
+  offset: 8, 0
+  index: -1
+fx-0-huifu203
+  rotate: false
+  xy: 122, 61
+  size: 37, 92
+  orig: 50, 236
+  offset: 5, 16
+  index: -1
+fx-0-huifu204
+  rotate: false
+  xy: 130, 157
+  size: 36, 124
+  orig: 50, 236
+  offset: 7, 66
+  index: -1
+fx-0-huifu205
+  rotate: false
+  xy: 168, 172
+  size: 35, 109
+  orig: 50, 236
+  offset: 6, 110
+  index: -1
+fx-0-huifu206
+  rotate: false
+  xy: 205, 172
+  size: 35, 109
+  orig: 50, 236
+  offset: 6, 111
+  index: -1
+fx-0-huifu207
+  rotate: true
+  xy: 84, 2
+  size: 33, 116
+  orig: 50, 236
+  offset: 7, 111
+  index: -1
+fx-0-huifu208
+  rotate: false
+  xy: 84, 37
+  size: 36, 116
+  orig: 50, 236
+  offset: 5, 114
+  index: -1
+fx-0-huifu209
+  rotate: false
+  xy: 202, 33
+  size: 38, 39
+  orig: 50, 236
+  offset: 4, 192
+  index: -1
+fx-0-huifu501
+  rotate: false
+  xy: 2, 155
+  size: 126, 126
+  orig: 141, 149
+  offset: 8, 12
+  index: -1
+fx-0-huifu601
+  rotate: false
+  xy: 2, 18
+  size: 80, 135
+  orig: 98, 149
+  offset: 8, 14
+  index: -1

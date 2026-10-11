@@ -1,0 +1,146 @@
+
+skeleton.png
+size: 838, 561
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+equip_10008_1
+  rotate: false
+  xy: 2, 3
+  size: 184, 156
+  orig: 184, 156
+  offset: 0, 0
+  index: -1
+equip_10008_2
+  rotate: false
+  xy: 188, 4
+  size: 184, 156
+  orig: 184, 156
+  offset: 0, 0
+  index: -1
+equip_10008_3
+  rotate: false
+  xy: 568, 9
+  size: 184, 156
+  orig: 184, 156
+  offset: 0, 0
+  index: -1
+fuzhou
+  rotate: false
+  xy: 685, 294
+  size: 39, 70
+  orig: 39, 71
+  offset: 0, 0
+  index: -1
+tx/jh_01
+  rotate: true
+  xy: 754, 7
+  size: 171, 75
+  orig: 256, 256
+  offset: 43, 51
+  index: -1
+tx/jh_02
+  rotate: true
+  xy: 754, 180
+  size: 184, 81
+  orig: 256, 256
+  offset: 36, 48
+  index: -1
+tx/jh_03
+  rotate: true
+  xy: 534, 364
+  size: 195, 93
+  orig: 256, 256
+  offset: 31, 47
+  index: -1
+tx/jh_04
+  rotate: true
+  xy: 502, 167
+  size: 195, 96
+  orig: 256, 256
+  offset: 31, 47
+  index: -1
+tx/jh_05
+  rotate: true
+  xy: 435, 364
+  size: 195, 97
+  orig: 256, 256
+  offset: 31, 47
+  index: -1
+tx/jh_06
+  rotate: true
+  xy: 401, 167
+  size: 195, 99
+  orig: 256, 256
+  offset: 31, 47
+  index: -1
+tx/jh_07
+  rotate: true
+  xy: 330, 364
+  size: 195, 103
+  orig: 256, 256
+  offset: 31, 47
+  index: -1
+tx/jh_08
+  rotate: true
+  xy: 2, 161
+  size: 198, 115
+  orig: 256, 256
+  offset: 29, 45
+  index: -1
+tx/jh_09
+  rotate: true
+  xy: 197, 363
+  size: 196, 131
+  orig: 256, 256
+  offset: 30, 46
+  index: -1
+tx/jh_10
+  rotate: false
+  xy: 374, 2
+  size: 192, 162
+  orig: 256, 256
+  offset: 32, 44
+  index: -1
+tx/jh_11
+  rotate: true
+  xy: 2, 361
+  size: 198, 193
+  orig: 256, 256
+  offset: 28, 47
+  index: -1
+tx/jh_12
+  rotate: false
+  xy: 205, 166
+  size: 194, 195
+  orig: 256, 256
+  offset: 30, 45
+  index: -1
+tx/jh_13
+  rotate: true
+  xy: 629, 366
+  size: 193, 83
+  orig: 256, 256
+  offset: 31, 48
+  index: -1
+tx/jh_14
+  rotate: true
+  xy: 600, 168
+  size: 194, 83
+  orig: 256, 256
+  offset: 30, 48
+  index: -1
+tx/jh_15
+  rotate: true
+  xy: 119, 162
+  size: 197, 84
+  orig: 256, 256
+  offset: 28, 48
+  index: -1
+tx/jh_16
+  rotate: true
+  xy: 754, 366
+  size: 193, 82
+  orig: 256, 256
+  offset: 31, 48
+  index: -1

@@ -1,0 +1,153 @@
+
+role_skin_4.png
+size: 666,1037
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bq1
+  rotate: true
+  xy: 113, 68
+  size: 212, 164
+  orig: 212, 164
+  offset: 0, 0
+  index: -1
+erhuan1
+  rotate: true
+  xy: 2, 6
+  size: 22, 46
+  orig: 22, 46
+  offset: 0, 0
+  index: -1
+erhuan2
+  rotate: true
+  xy: 50, 6
+  size: 22, 46
+  orig: 22, 46
+  offset: 0, 0
+  index: -1
+qiang
+  rotate: true
+  xy: 451, 104
+  size: 98, 46
+  orig: 210, 136
+  offset: 105, 28
+  index: -1
+qiang2
+  rotate: false
+  xy: 286, 8
+  size: 140, 73
+  orig: 210, 136
+  offset: 63, 8
+  index: -1
+qiang3
+  rotate: false
+  xy: 444, 386
+  size: 186, 44
+  orig: 210, 136
+  offset: 17, 31
+  index: -1
+qiang4
+  rotate: false
+  xy: 444, 536
+  size: 196, 73
+  orig: 210, 136
+  offset: 8, 8
+  index: -1
+qiang5
+  rotate: true
+  xy: 404, 310
+  size: 99, 38
+  orig: 210, 136
+  offset: 104, 50
+  index: -1
+qiang6
+  rotate: false
+  xy: 444, 432
+  size: 195, 102
+  orig: 210, 136
+  offset: 8, 24
+  index: -1
+shen
+  rotate: true
+  xy: 2, 282
+  size: 327, 263
+  orig: 693, 519
+  offset: 188, 137
+  index: -1
+shou1
+  rotate: false
+  xy: 267, 411
+  size: 175, 198
+  orig: 196, 351
+  offset: 0, 61
+  index: -1
+shou2
+  rotate: false
+  xy: 444, 204
+  size: 183, 180
+  orig: 270, 487
+  offset: 53, 143
+  index: -1
+tou
+  rotate: false
+  xy: 2, 611
+  size: 662, 424
+  orig: 662, 576
+  offset: 0, 139
+  index: -1
+tui
+  rotate: true
+  xy: 279, 83
+  size: 105, 170
+  orig: 175, 381
+  offset: 35, 98
+  index: -1
+tui2
+  rotate: true
+  xy: 279, 190
+  size: 105, 159
+  orig: 191, 417
+  offset: 41, 127
+  index: -1
+tx/qh_01
+  rotate: true
+  xy: 428, 24
+  size: 57, 91
+  orig: 256, 128
+  offset: 15, 22
+  index: -1
+tx/qh_02
+  rotate: false
+  xy: 267, 297
+  size: 135, 112
+  orig: 256, 128
+  offset: 14, 8
+  index: -1
+tx/qh_03
+  rotate: true
+  xy: 521, 29
+  size: 173, 92
+  orig: 256, 128
+  offset: 17, 16
+  index: -1
+tx/qh_04
+  rotate: false
+  xy: 113, 2
+  size: 171, 64
+  orig: 256, 128
+  offset: 20, 31
+  index: -1
+weijing
+  rotate: true
+  xy: 2, 30
+  size: 250, 109
+  orig: 250, 109
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: true
+  xy: 632, 294
+  size: 136, 31
+  orig: 398, 91
+  offset: 131, 30
+  index: -1

@@ -1,0 +1,76 @@
+
+Anger.png
+size: 511, 289
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+di
+  rotate: false
+  xy: 56, 216
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+sucai/huoyan1/10000
+  rotate: false
+  xy: 2, 118
+  size: 166, 89
+  orig: 300, 243
+  offset: 42, 71
+  index: -1
+sucai/huoyan1/10002
+  rotate: false
+  xy: 2, 9
+  size: 166, 107
+  orig: 300, 243
+  offset: 42, 71
+  index: -1
+sucai/huoyan1/10004
+  rotate: false
+  xy: 345, 2
+  size: 162, 111
+  orig: 300, 243
+  offset: 42, 71
+  index: -1
+sucai/huoyan1/10006
+  rotate: false
+  xy: 170, 3
+  size: 173, 110
+  orig: 300, 243
+  offset: 42, 71
+  index: -1
+sucai/huoyan1/10008
+  rotate: false
+  xy: 129, 209
+  size: 170, 78
+  orig: 300, 243
+  offset: 45, 71
+  index: -1
+sucai/huoyan1/10010
+  rotate: false
+  xy: 301, 208
+  size: 171, 79
+  orig: 300, 243
+  offset: 43, 71
+  index: -1
+sucai/huoyan1/10012
+  rotate: false
+  xy: 170, 115
+  size: 169, 91
+  orig: 300, 243
+  offset: 41, 71
+  index: -1
+sucai/huoyan1/10014
+  rotate: false
+  xy: 341, 115
+  size: 168, 91
+  orig: 300, 243
+  offset: 47, 71
+  index: -1
+zi
+  rotate: true
+  xy: 2, 238
+  size: 49, 52
+  orig: 49, 53
+  offset: 0, 1
+  index: -1

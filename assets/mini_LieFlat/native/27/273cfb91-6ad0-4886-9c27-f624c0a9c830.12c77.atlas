@@ -1,0 +1,27 @@
+
+tablecloth.png
+size: 250, 183
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+equip_10003_1
+  rotate: false
+  xy: 110, 18
+  size: 131, 81
+  orig: 218, 184
+  offset: 50, 42
+  index: -1
+equip_10003_2
+  rotate: false
+  xy: 110, 101
+  size: 138, 80
+  orig: 218, 184
+  offset: 43, 43
+  index: -1
+equip_10003_3
+  rotate: true
+  xy: 2, 2
+  size: 179, 106
+  orig: 218, 184
+  offset: 38, 33
+  index: -1

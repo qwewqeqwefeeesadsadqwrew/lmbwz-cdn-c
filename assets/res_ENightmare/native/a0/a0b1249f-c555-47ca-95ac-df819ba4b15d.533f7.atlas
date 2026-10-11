@@ -1,0 +1,55 @@
+
+synthesis.png
+size: 1210, 617
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+闪光/sg (1)
+  rotate: true
+  xy: 2, 304
+  size: 311, 300
+  orig: 311, 300
+  offset: 0, 0
+  index: -1
+闪光/sg (2)
+  rotate: false
+  xy: 2, 2
+  size: 311, 300
+  orig: 311, 300
+  offset: 0, 0
+  index: -1
+闪光/sg (3)
+  rotate: true
+  xy: 304, 304
+  size: 311, 300
+  orig: 311, 300
+  offset: 0, 0
+  index: -1
+闪光/sg (4)
+  rotate: false
+  xy: 315, 2
+  size: 311, 300
+  orig: 311, 300
+  offset: 0, 0
+  index: -1
+闪光/sg (5)
+  rotate: true
+  xy: 606, 304
+  size: 311, 300
+  orig: 311, 300
+  offset: 0, 0
+  index: -1
+闪光/sg (6)
+  rotate: false
+  xy: 628, 2
+  size: 311, 300
+  orig: 311, 300
+  offset: 0, 0
+  index: -1
+闪光/sg (7)
+  rotate: true
+  xy: 908, 304
+  size: 311, 300
+  orig: 311, 300
+  offset: 0, 0
+  index: -1

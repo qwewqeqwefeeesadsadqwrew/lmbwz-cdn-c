@@ -1,0 +1,83 @@
+
+play_s_chuangsong.png
+size: 550,1014
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baobao/baolizia_0003
+  rotate: false
+  xy: 373, 20
+  size: 144, 143
+  orig: 370, 370
+  offset: 112, 116
+  index: -1
+baobao/baolizia_0005
+  rotate: true
+  xy: 366, 557
+  size: 201, 181
+  orig: 370, 370
+  offset: 81, 91
+  index: -1
+baobao/baolizia_0007
+  rotate: false
+  xy: 2, 223
+  size: 241, 204
+  orig: 370, 370
+  offset: 56, 77
+  index: -1
+baobao/baolizia_0009
+  rotate: false
+  xy: 2, 429
+  size: 269, 221
+  orig: 370, 370
+  offset: 41, 69
+  index: -1
+baobao/baolizia_0011
+  rotate: true
+  xy: 366, 760
+  size: 252, 182
+  orig: 370, 370
+  offset: 58, 102
+  index: -1
+baobao/baolizia_0013
+  rotate: true
+  xy: 2, 2
+  size: 219, 156
+  orig: 370, 370
+  offset: 90, 107
+  index: -1
+baobao/baolizia_0015
+  rotate: true
+  xy: 373, 165
+  size: 150, 152
+  orig: 370, 370
+  offset: 137, 108
+  index: -1
+baobao/baolizia_0017
+  rotate: false
+  xy: 533, 545
+  size: 10, 10
+  orig: 370, 370
+  offset: 192, 112
+  index: -1
+shock
+  rotate: true
+  xy: 2, 652
+  size: 360, 362
+  orig: 360, 363
+  offset: 0, 0
+  index: -1
+vortex01
+  rotate: true
+  xy: 160, 3
+  size: 218, 211
+  orig: 220, 220
+  offset: 2, 3
+  index: -1
+vortex02
+  rotate: false
+  xy: 273, 317
+  size: 258, 238
+  orig: 365, 323
+  offset: 50, 41
+  index: -1

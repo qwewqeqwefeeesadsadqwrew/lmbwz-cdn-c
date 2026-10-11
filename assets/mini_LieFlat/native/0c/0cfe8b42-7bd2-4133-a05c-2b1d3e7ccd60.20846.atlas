@@ -1,0 +1,125 @@
+
+ATM.png
+size: 497, 530
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+equip_10006_1
+  rotate: true
+  xy: 438, 475
+  size: 53, 54
+  orig: 92, 99
+  offset: 20, 14
+  index: -1
+equip_10006_2
+  rotate: true
+  xy: 290, 233
+  size: 47, 67
+  orig: 92, 99
+  offset: 23, 14
+  index: -1
+equip_10006_3
+  rotate: false
+  xy: 431, 340
+  size: 64, 67
+  orig: 92, 99
+  offset: 14, 14
+  index: -1
+序列帧/tx-animation_01
+  rotate: false
+  xy: 466, 301
+  size: 24, 37
+  orig: 217, 183
+  offset: 85, 5
+  index: -1
+序列帧/tx-animation_02
+  rotate: false
+  xy: 431, 290
+  size: 33, 48
+  orig: 217, 183
+  offset: 84, 8
+  index: -1
+序列帧/tx-animation_03
+  rotate: false
+  xy: 438, 409
+  size: 51, 64
+  orig: 217, 183
+  offset: 79, 13
+  index: -1
+序列帧/tx-animation_04
+  rotate: false
+  xy: 211, 202
+  size: 77, 78
+  orig: 217, 183
+  offset: 70, 19
+  index: -1
+序列帧/tx-animation_05
+  rotate: false
+  xy: 367, 25
+  size: 115, 99
+  orig: 217, 183
+  offset: 52, 25
+  index: -1
+序列帧/tx-animation_06
+  rotate: true
+  xy: 367, 126
+  size: 154, 124
+  orig: 217, 183
+  offset: 35, 31
+  index: -1
+序列帧/tx-animation_07
+  rotate: true
+  xy: 2, 2
+  size: 181, 168
+  orig: 217, 183
+  offset: 27, 15
+  index: -1
+序列帧/tx-animation_08
+  rotate: false
+  xy: 172, 8
+  size: 193, 175
+  orig: 217, 183
+  offset: 23, 8
+  index: -1
+序列帧/tx-animation_09
+  rotate: false
+  xy: 2, 185
+  size: 207, 158
+  orig: 217, 183
+  offset: 10, 5
+  index: -1
+序列帧/tx-animation_10
+  rotate: false
+  xy: 218, 282
+  size: 211, 133
+  orig: 217, 183
+  offset: 5, 0
+  index: -1
+序列帧/tx-animation_11
+  rotate: false
+  xy: 2, 345
+  size: 214, 103
+  orig: 217, 183
+  offset: 2, 1
+  index: -1
+序列帧/tx-animation_12
+  rotate: false
+  xy: 2, 450
+  size: 216, 78
+  orig: 217, 183
+  offset: 0, 1
+  index: -1
+序列帧/tx-animation_13
+  rotate: false
+  xy: 220, 467
+  size: 216, 61
+  orig: 217, 183
+  offset: 0, 1
+  index: -1
+序列帧/tx-animation_14
+  rotate: false
+  xy: 220, 417
+  size: 216, 48
+  orig: 217, 183
+  offset: 0, 1
+  index: -1

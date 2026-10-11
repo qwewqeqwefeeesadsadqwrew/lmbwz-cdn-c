@@ -1,0 +1,125 @@
+
+play_s_pengzhuang.png
+size: 652, 536
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+0
+  rotate: true
+  xy: 597, 229
+  size: 50, 48
+  orig: 250, 250
+  offset: 103, 103
+  index: -1
+1
+  rotate: false
+  xy: 522, 2
+  size: 82, 74
+  orig: 250, 250
+  offset: 98, 95
+  index: -1
+10
+  rotate: false
+  xy: 360, 193
+  size: 160, 168
+  orig: 250, 250
+  offset: 85, 64
+  index: -1
+11
+  rotate: true
+  xy: 193, 25
+  size: 158, 166
+  orig: 250, 250
+  offset: 86, 66
+  index: -1
+12
+  rotate: false
+  xy: 551, 371
+  size: 74, 163
+  orig: 250, 250
+  offset: 167, 69
+  index: -1
+13
+  rotate: false
+  xy: 522, 199
+  size: 73, 162
+  orig: 250, 250
+  offset: 167, 70
+  index: -1
+14
+  rotate: false
+  xy: 597, 281
+  size: 24, 88
+  orig: 250, 250
+  offset: 215, 73
+  index: -1
+15
+  rotate: false
+  xy: 627, 447
+  size: 23, 87
+  orig: 250, 250
+  offset: 215, 74
+  index: -1
+16
+  rotate: false
+  xy: 606, 33
+  size: 19, 43
+  orig: 250, 250
+  offset: 218, 74
+  index: -1
+2
+  rotate: false
+  xy: 522, 78
+  size: 117, 119
+  orig: 250, 250
+  offset: 86, 83
+  index: -1
+3
+  rotate: false
+  xy: 361, 26
+  size: 159, 165
+  orig: 250, 250
+  offset: 74, 73
+  index: -1
+4
+  rotate: false
+  xy: 2, 5
+  size: 182, 169
+  orig: 250, 250
+  offset: 59, 70
+  index: -1
+5
+  rotate: false
+  xy: 193, 363
+  size: 190, 171
+  orig: 250, 250
+  offset: 55, 69
+  index: -1
+6
+  rotate: false
+  xy: 2, 176
+  size: 189, 176
+  orig: 250, 250
+  offset: 57, 64
+  index: -1
+7
+  rotate: false
+  xy: 2, 354
+  size: 189, 180
+  orig: 250, 250
+  offset: 59, 60
+  index: -1
+8
+  rotate: false
+  xy: 193, 185
+  size: 165, 176
+  orig: 250, 250
+  offset: 83, 61
+  index: -1
+9
+  rotate: false
+  xy: 385, 363
+  size: 164, 171
+  orig: 250, 250
+  offset: 83, 63
+  index: -1

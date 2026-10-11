@@ -1,0 +1,13 @@
+
+eye.png
+size: 504, 1087
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+zhayan
+  rotate: false
+  xy: 2, 2
+  size: 500, 1083
+  orig: 500, 1083
+  offset: 0, 0
+  index: -1
